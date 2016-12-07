@@ -1,9 +1,0 @@
-D:\dev\windows\TN2ShareCtrl\TN2ShareCtrl\bin\Debug\TN2ShareCtrl.exe.config
-D:\dev\windows\TN2ShareCtrl\TN2ShareCtrl\bin\Debug\TN2ShareCtrl.exe
-D:\dev\windows\TN2ShareCtrl\TN2ShareCtrl\bin\Debug\TN2ShareCtrl.pdb
-D:\dev\windows\TN2ShareCtrl\TN2ShareCtrl\obj\Debug\TN2ShareCtrl.csprojResolveAssemblyReference.cache
-D:\dev\windows\TN2ShareCtrl\TN2ShareCtrl\obj\Debug\TN2ShareCtrl.Properties.Resources.resources
-D:\dev\windows\TN2ShareCtrl\TN2ShareCtrl\obj\Debug\TN2ShareCtrl.csproj.GenerateResource.Cache
-D:\dev\windows\TN2ShareCtrl\TN2ShareCtrl\obj\Debug\TN2ShareCtrl.exe
-D:\dev\windows\TN2ShareCtrl\TN2ShareCtrl\obj\Debug\TN2ShareCtrl.pdb
-D:\dev\windows\TN2ShareCtrl\TN2ShareCtrl\obj\Debug\TN2ShareCtrl.mainForm.resources
